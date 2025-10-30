@@ -22,8 +22,8 @@ DELETE:
 ![DELETE](public/assets/img/DELETEapi.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
+![Print](public/assets/img/networkPrint.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
 
 ## **Orientações Gerais**
 
