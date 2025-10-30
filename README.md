@@ -12,14 +12,14 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 - Breve descrição sobre seu projeto:
 
 **Print dos testes da API com Postman ou similar**
-
-<< COLOQUE A IMAGEM GET AQUI >>
-
-<< COLOQUE A IMAGEM POST AQUI >>
-
-<< COLOQUE A IMAGEM PUT AQUI >>
-
-<< COLOQUE A IMAGEM DELETE AQUI >>
+POST:
+![POST](public/assets/img/POSTapi.png)
+PUT:
+![PUT](public/assets/img/PUTapi.png)
+GET:
+![GET](public/assets/img/GETapi.png)
+DELETE:
+![DELETE](public/assets/img/DELETEapi.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 

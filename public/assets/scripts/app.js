@@ -1,9 +1,10 @@
 // === FUNÇÃO PARA CARREGAR O JSON ===
 async function carregarDados() {
   try {
-    const response = await fetch('assets/text.json');
+    const response = await fetch('http://localhost:3000/criptomoedas');
     const data = await response.json();
-    return data.criptomoedas; // <-- ajustado
+    console.log("Dados recebidos:", data); // 👈 só para depuração
+    return data; // retorna diretamente o array
   } catch (error) {
     console.error("Erro ao carregar JSON:", error);
     return [];
